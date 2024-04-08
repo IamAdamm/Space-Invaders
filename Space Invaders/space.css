@@ -1,0 +1,23 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    text-align: center;
+    
+}
+body {
+    background:rgb(2, 172, 172)
+    
+}
+.startButton {
+    width: 200px;
+    height: 50px;
+    background-color: rgb(22, 212, 22);
+    border: 1;
+    border-radius: 20%;
+    font-weight: bolder;
+    font-size: large;
+    border-color: black;
+    align-items: center;
+    cursor: pointer;
+    border-width: 5px;
+}
